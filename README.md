@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-I've been a FullStack Developer, but currently I'm focused on mobile development, I'm studying Flutter and I work daily with Swift, SwiftUI and React Native as my main technologies.
+Atualmente trabalho com desenvolvimento mobile, trabalho para me tornar um especialista mobile, tenho conhecimento em Swift, SwiftUi, Objective-c, Flutter, React Native e Kotlin.
 
 
 ## 🌐 Socials:
